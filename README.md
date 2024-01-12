@@ -39,11 +39,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
    <br/>
    <br/>
 
-## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/Advanced-Scientific-Calculator/)
-
- <br/>
 
 ## 💻 Screens
 
@@ -54,12 +50,10 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
 
-> [Twitter](https://twitter.com/ayush_codes)
+> [Twitter](https://twitter.com/VedantAherPatil)
 
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
+> [LinkedIn](https://www.linkedin.com/in/vedantaher031/)
 
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
 
 I hope you like the project. Thanks for reading :)
